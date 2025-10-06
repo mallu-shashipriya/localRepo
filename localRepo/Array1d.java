@@ -18,6 +18,11 @@ public class Array1d {
 //		
 		
 //		int[] arr2 = new int[10];
+
+
+
+//// This is Shashipriya new changes made
+////  this is my code
 		System.out.print("Size of Array: ");
 		int len = scn.nextInt();
 		int[] arr2 = new int[len];
