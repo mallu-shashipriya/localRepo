@@ -21,7 +21,9 @@ public class Array1d {
 		System.out.print("Size of Array: ");
 		int len = scn.nextInt();
 		int[] arr2 = new int[len];
-		
+		System.out.print("Size of Array: ");
+		int len = scn.nextInt();
+		int[] arr2 = new int[len];
 		for(int i = 0; i < 5; i++) {
 			arr2[i] = scn.nextInt();
 		}
